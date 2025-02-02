@@ -8,7 +8,7 @@ import random
 import string
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
-bot = telebot.TeleBot('YOUR_BOT_TOKEN_HERE')
+bot = telebot.TeleBot('8074095069:AAG63QpZtah2k2EYnPpRvNMUNdfXEvWUX8s')
 
 # Admin user IDs
 admin_id = ["7409754329"]
